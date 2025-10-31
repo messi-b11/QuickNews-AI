@@ -1,5 +1,8 @@
 # env files (can opt-in for committing if needed)
 .env
 
+# serverless build artifacts
+.serverless/
+
 # dependencies
 node_modules/
