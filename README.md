@@ -107,15 +107,4 @@ If you want every trace of a secret removed from repository history, we can run 
 - API handler: `sentiment-news-api/handler.ts`
 - Example env: `sentiment-news-api/.env.example`
 
-## Contact / ownership
-
-Repository ownership and contributor links have been updated to repository owner details.
-
----
-
-If you'd like, I'll now:
-- Add the unit test scaffold and a couple of unit tests (API happy path + missing key),
-- Add the search speed benchmark script and a short runner, and
-- Purge secrets from history if you confirm and accept a force-push.
-
-Tell me which of those to do next and I will implement them and push changes to `upload-to-messi-b11`.
+Built by Messi Banzusabe
